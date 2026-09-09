@@ -1,5 +1,5 @@
 {
   "version": "0.5.1",
   "downloadUrl": "https://github.com/pruebagame2003/BreakTheKey-Updates/releases/download/v0.5.1/BreakTheKeyUpdate0.5.1.zip",
-  "changelog": "- Nuevo sistema de voces para los personajes (Por el momento para la skin de TuFotoTaza).\n- Correcciones de errores en la escena principal.\n- Se Agregó nueva función de Actualizar dentro del juego."
+  "changelog": "- Nuevo sistema Lineas de Voces (Disponible por el momento a TuFotoTaza).\n- Se corrigió de que se quedaba todo congelado al darle al boton de Volver a Jugar denuevo.\n- Se Agregó nueva función de Actualizar dentro del juego.\n- Se agregaron nuevos fondos como escenario para las 3 dificultados del Modo Apuesta y Casual.\n- Se agregó leve efecto de chispa al botón central"
 }
