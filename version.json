@@ -1,5 +1,5 @@
 {
-  "version": "0.5.2",
+  "version": "0.5.3",
   "downloadUrl": "https://github.com/pruebagame2003/BreakTheKey-Updates/releases/download/v0.5.2/BreakTheKey0.5.2.zip",
   "changelog": "- Nuevo sistema Lineas de Voces (Disponible por el momento a TuFotoTaza).\n- Se corrigió el botón de Volver a Jugar.\n- Se Agregó un botón de Update Online.\n- Se agregaron nuevos fondos como escenario.\n- Se agregó efecto de chispa al botón central.\n- Sistema de Guardado de Moneda."
 }
