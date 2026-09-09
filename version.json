@@ -1,5 +1,5 @@
 {
   "version": "0.5.1",
-  "downloadUrl": "https://github.com/pruebagame2003/BreakTheKey-Updates/releases/download/v0.5.1/BreakTheKey0.5.1.zip",
-  "changelog": "- Nuevo sistema de voces con guiño a TuFotoTaza.\n- Correcciones de errores en la escena principal."
+  "downloadUrl": "https://github.com/pruebagame2003/BreakTheKey-Updates/releases/download/v0.5.1/BreakTheKeyUpdate0.5.1.zip",
+  "changelog": "- Nuevo sistema de voces para los personajes (Por el momento para la skin de TuFotoTaza).\n- Correcciones de errores en la escena principal.\n- Se Agregó nueva función de Actualizar dentro del juego."
 }
